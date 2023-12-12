@@ -6,3 +6,6 @@
 ![Задание2](https://github.com/elenakarikh/git-hw/commit/3c1836971f84032146a480b770e9dd6ac160ec69)
 
 
+# Решение Задание 3
+![Задание3](https://github.com/elenakarikh/git-hw/network)
+![scrin](scrin6)

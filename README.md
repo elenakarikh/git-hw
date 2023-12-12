@@ -26,5 +26,15 @@ Netology
 4. git commit -m "add gitignore"\
    git push 
 
+```
+## Задание 3.
+```
+1. git branch dev\
+   git checkout dev
+2. Создала файл test.sh
+3. Внесла изменения и запушила
+4. git checkout main
+5. Добавила файл main.sh, запушила
+6. git merge dev
 
 
