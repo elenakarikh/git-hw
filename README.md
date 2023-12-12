@@ -16,3 +16,15 @@ Netology
 10. git add README.md
 11. git diff, git diff --staged ![scrin](scrin4.png)
 12. git push
+
+```
+## Задание 2.
+```
+1. Создала .gitignore
+2. git add .gitignore
+3. Файл ![scrin](scrin5.png)
+4. git commit -m "add gitignore"\
+   git push 
+
+
+
