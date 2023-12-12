@@ -7,5 +7,6 @@
 
 
 # Решение Задание 3
-![Задание3](https://github.com/elenakarikh/git-hw/network)
+![Задание3](https://github.com/elenakarikh/git-hw/network)\
 ![scrin](scrin6)
+```
