@@ -2,6 +2,7 @@
 Netology
 ```
 ## Задание #1
+```
 1. Создала аккаунт elenakarikh
 2. Создала репозиторий https://github.com/elenakarikh/git-hw.git
 3. Склонировала: git clone https://github.com/elenakarikh/git-hw.git
