@@ -8,7 +8,7 @@ Netology
 3. Склонировала: git clone https://github.com/elenakarikh/git-hw.git
 4. cd git-hw
 5. git config --global user.name "Elena Karih"\
-   git config --global user.email linkage@list.ru
+   git config --global user.email li------e@list.ru
 6. git status ![scrin](git-hw/scrin1.png)
 7. Внесла эти изменения
 8. git status ![scrin](scrin2.png)
